@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm <span style="color: #6366f1;">Saurabh Kumar</span></h1>
-  <p><strong>Laravel & PHP Full-Stack Developer | Backend Specialist | React & MERN Enthusiast</strong></p>
+  <p><strong>Laravel & PHP Full-Stack Developer | Backend Specialist | Actively Learning MERN Stack</strong></p>
   <p>📍 <em>Mumbai, India</em></p>
 
   <p>
@@ -22,29 +22,25 @@
 
 ### 🚀 About Me
 
-- 💻 **Backend & Full-Stack:** Passionate developer building robust, scalable web applications and clean REST APIs.
-- 🔭 **Current Focus:** Building production-grade apps with **Laravel (PHP)**, **Blade**, and **React.js**.
-- 🌱 **Currently Exploring:** **MERN Stack** *(Node.js, Express.js, MongoDB)* & **AI Integration**.
-- 💬 **Ask me about:** PHP, Laravel, MySQL, Database Architecture, RESTful Services & State Management.
+- 💻 **Core Expertise:** Passionate developer proficient in **PHP & Laravel**, building scalable backend architectures, clean REST APIs, and database solutions.
+- 🔭 **Current Work:** Developing full-stack web applications with **Laravel** on backend and modern frontend tools.
+- 🎯 **Career Goal:** Seeking opportunities as a **Junior Full-Stack / Backend Developer** where I can contribute and grow.
+- 💬 **Ask me about:** PHP, Laravel, MySQL, Database Design, REST APIs, and JavaScript.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Primary Tech Stack (Hands-on Experience)
 
-#### **Backend & Database**
+#### **Backend & Databases**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 #### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -64,6 +60,23 @@
 
 ---
 
+### 📚 Currently Learning & Expanding Skills (In Progress)
+
+> 💡 *I am actively expanding my skillset to become a versatile Full-Stack Engineer by mastering modern JavaScript full-stack development:*
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-Learning_Phase-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-Learning_Phase-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-Learning_Phase-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-Learning_Phase-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+- 🔄 **React.js:** Mastering Components, Hooks (`useState`, `useEffect`), State Management, and API integration.
+- ⚡ **Node.js & Express.js:** Understanding asynchronous backend services, middleware, and building RESTful APIs.
+- 🍃 **MongoDB:** Learning NoSQL database schema design, CRUD operations, and Mongoose ODM.
+
+---
+
 ### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
@@ -73,15 +86,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh63-op&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh63-op&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ Open to junior / full-time developer roles & collaborative opportunities!</sub>
+  <sub>⭐️ Open to junior / entry-level Full-Stack & Backend Developer roles!</sub>
 </div>
