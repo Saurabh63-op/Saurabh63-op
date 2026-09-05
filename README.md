@@ -65,6 +65,7 @@ An employee attendance tracker featuring:
 ---
 ## 📫 Connect With Me
 - GitHub: [Saurabh63-op](https://github.com/Saurabh63-op)
+- linkdin: https://www.linkedin.com/in/saurabh-kumar-a14643229/
 ---
 ⭐ Feel free to explore my repositories and projects.
 
